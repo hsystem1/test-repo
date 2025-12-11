@@ -1,0 +1,17 @@
+{
+  "batch_id": "4d46e98c",
+  "created_at": "2025-12-11T10:54:33.797268",
+  "repo": "hsystem1/test-repo",
+  "docs_folder": "batch_2025_12_11_105433_027f/docs",
+  "images_folder": "batch_2025_12_11_105433_027f/images",
+  "total_files": 1,
+  "completed": 1,
+  "failed": 0,
+  "documents": {
+    "test.txt": {
+      "status": "success",
+      "markdown_url": "https://raw.githubusercontent.com/hsystem1/test-repo/main/batch_2025_12_11_105433_027f/docs/test.md",
+      "images": []
+    }
+  }
+}
